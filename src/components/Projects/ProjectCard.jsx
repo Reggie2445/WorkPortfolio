@@ -6,7 +6,7 @@ export const ProjectCard = ({
 }) => {
   return (
     <div>
-      <img src={getImageUrl(imageSrc)} alt={`Image of ${title}`} />
+      <img src={getImageURL(imageSrc)} alt={`Image of ${title}`} />
       <h3>{title}</h3>
       <p>{description}</p>
       <ul>
