@@ -2,7 +2,6 @@ import React from "react";
 import { getImageURL } from "../../utlis";
 import styles from "./Contact.module.css";
 
-
 export const Contact = () => {
   return (
     <footer id="contact" className={styles.container}>
@@ -23,7 +22,9 @@ export const Contact = () => {
             src={getImageURL("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           ></img>
-          <a href="https://www.linkedin.com/in/reggie-easton/">linkedin.com/in/reggie-easton</a>
+          <a href="https://www.linkedin.com/in/reggie-easton/">
+            linkedin.com/in/reggie-easton
+          </a>
         </li>
         <li className={styles.link}>
           <img
