@@ -20,7 +20,7 @@ export const About = () => {
             ></img>
             <div className={styles.aboutItemText}>
                 <h3>Frontend Developer</h3>
-                <p>I'm a frontend developer with experience in building responsive and optimized sites </p>
+                <p>Proficient in designing visually appealing and user-friendly webpages using HTML, CSS, JavaScript, and React</p>
 
             </div>
           </li>
@@ -31,7 +31,7 @@ export const About = () => {
             ></img>
             <div className={styles.aboutItemText}>
                 <h3>Backend Developer</h3>
-                <p>I have experience developing fast and optimized systems and APIs </p>
+                <p>Experienced in backend development with Firebase's real-time database</p>
 
             </div>
           </li>
@@ -42,7 +42,7 @@ export const About = () => {
             ></img>
             <div className={styles.aboutItemText}>
                 <h3>UI Designer</h3>
-                <p>I have designed multiple landing pages and have systems as well </p>
+                <p>Skilled in crafting visually appealing and user-friendly interfaces, combining aesthetic appeal with intuitive user experience principles. </p>
 
             </div>
           </li>

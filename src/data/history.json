@@ -14,16 +14,5 @@
       "endDate": "March, 2023",
       "experiences": ["Implemented automation tools using Bash scripting, resulting in a reduction in manual tasks and a significant improvement in workflow efficiency", "Developed and maintained documentation for standard operating procedures, and knowledge base articles, ensuring accurate and up-to-date information for the support team", "Proactively identified and resolved software issues through rigorous testing and debugging, ensuring seamless user experience and minimizing downtime", "Provided L3 support to a diverse user base of 300+ employees, resolving technical issues promptly and ensuring minimal disruption to productivity"],
       "imageSrc": "history/morganlewis.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
     }
   ]
