@@ -1,18 +1,41 @@
 [
-    {
-      "role": "Software Developer & Tester",
-      "organisation": "Intealth",
-      "startDate": "Sept, 2023",
-      "endDate": "March, 2024",
-      "experiences": ["Integrated interactive StoryBook pages to showcase new features and functionalities, enhancing user engagement and improving the overall user experience.", "Conducted thorough testing, and identified and resolved bugs for multiple production apps, resulting in a reduction in system errors.", "Practiced Test-Driven Development (TDD) methodology, formulating detailed test cases using the Vitest framework to validate software functionality, ensuring robustness and reliability", "Designed visually appealing and user-friendly webpages using React, enhancing user interaction and experience"],
-      "imageSrc": "history/intealth_logo.png"
-    },
-    {
-      "role": "Desktop Software Engineer",
-      "organisation": "Morgan, Lewis & Bockius,",
-      "startDate": "Sept, 2022",
-      "endDate": "March, 2023",
-      "experiences": ["Implemented automation tools using Bash scripting, resulting in a reduction in manual tasks and a significant improvement in workflow efficiency", "Developed and maintained documentation for standard operating procedures, and knowledge base articles, ensuring accurate and up-to-date information for the support team", "Proactively identified and resolved software issues through rigorous testing and debugging, ensuring seamless user experience and minimizing downtime", "Provided L3 support to a diverse user base of 300+ employees, resolving technical issues promptly and ensuring minimal disruption to productivity"],
-      "imageSrc": "history/morganlewis.png"
-    }
-  ]
+  {
+    "role": "Software Developer & Tester",
+    "organisation": "Intealth",
+    "startDate": "Sept, 2023",
+    "endDate": "March, 2024",
+    "experiences": [
+      "Integrated interactive StoryBook pages to showcase new features and functionalities, enhancing user engagement and improving the overall user experience.",
+      "Conducted thorough testing, and identified and resolved bugs for multiple production apps, resulting in a reduction in system errors.",
+      "Practiced Test-Driven Development (TDD) methodology, formulating detailed test cases using the Vitest framework to validate software functionality, ensuring robustness and reliability",
+      "Designed visually appealing and user-friendly webpages using React, enhancing user interaction and experience"
+    ],
+    "imageSrc": "history/intealth_logo.png"
+  },
+  {
+    "role": "Desktop Software Engineer",
+    "organisation": "Morgan, Lewis & Bockius,",
+    "startDate": "Sept, 2022",
+    "endDate": "March, 2023",
+    "experiences": [
+      "Implemented automation tools using Bash scripting, resulting in a reduction in manual tasks and a significant improvement in workflow efficiency",
+      "Developed and maintained documentation for standard operating procedures, and knowledge base articles, ensuring accurate and up-to-date information for the support team",
+      "Proactively identified and resolved software issues through rigorous testing and debugging, ensuring seamless user experience and minimizing downtime",
+      "Provided L3 support to a diverse user base of 300+ employees, resolving technical issues promptly and ensuring minimal disruption to productivity"
+    ],
+    "imageSrc": "history/morganlewis.png"
+  },
+  {
+    "role": "IT Co-op (Full-Stack Developer)",
+    "organisation": "Vanguard",
+    "startDate": "Sept, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Delivered 58 production-ready features across multiple applications, leading modernization efforts such as Angular 18+ upgrades, GitHub migrations, and performance optimizations to improve scalability and user experience.",
+      "Developed data management endpoints supporting efficient GET, POST, and DELETE operations, streamlining operational support and reducing manual intervention.",
+      "Remediated 15+ critical security vulnerabilities, significantly reducing risk exposure and ensuring compliance with enterprise security standards.",
+      "Conducted performance testing and analysis to establish baseline metrics for system optimization and capacity planning, supporting data-driven decisions for scalability."
+    ],
+    "imageSrc": "history/vanguard.png"
+  }
+]
