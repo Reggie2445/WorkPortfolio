@@ -1,7 +1,7 @@
 import { useState } from "react";
 import styles from "./ChatWithReggie.module.css";
 
-const API_URL = import.meta.env.VITE_CHAT_API;
+const API_URL = "/chat"
 
 export default function ChatWithReggie() {
   const [input, setInput] = useState("");
